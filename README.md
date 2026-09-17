@@ -1,4 +1,5 @@
-# 🌱 Plant Disease Prediction Using CNN
+#  Plant Disease Prediction Using CNN
+A deep learning-based image classification project that uses a Convolutional Neural Network (CNN) to identify and classify plant diseases from leaf images.
 
 ## 📌 Overview
 
